@@ -11,7 +11,7 @@
   * [微信JSAPI支付](jie-kou-lie-biao/d.md)
   * 订单查询
   * 交易退款
-  * 交易撤销
+  * [交易撤销](jie-kou-lie-biao/jiao-yi-che-xiao.md)
   * [支付完成之后的通知](jie-kou-lie-biao/zhi-fu-wan-cheng-zhi-hou-de-tong-zhi.md)
   * [接口返回值的安全校验规则](jie-kou-lie-biao/jie-kou-fan-hui-zhi-de-an-quan-xiao-yan-gui-ze.md)
 * [名词解释](ming-ci-jie-shi.md)
