@@ -1,3 +1,12 @@
-# First Chapter
+# 接口统一说明 {#接口统一说明}
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+我们所有的接口都采用了http协议进行通讯， 所有的参数都是以form表单的方式进行提交。
+
+所有的接口均支持POST与GET两种方式（推荐使用POST）。
+
+# 接口安全保证 {#接口安全保证}
+
+我们采用了MD5签名的方式验证请求的合法性，以此来保证我们的接口调用的安全。
+
+大家使用我们提供的测试参数调试完成之后，请向相关的客服同学申请属于自己的`app`和`key`，这两个参数是保证和校验您的身份的唯一凭证，如果此参数泄露，那么将危及您的收款安全。
+
