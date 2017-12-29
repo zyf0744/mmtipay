@@ -9,7 +9,7 @@
   * [扫码支付](jie-kou-lie-biao/b.md)
   * H5支付
   * [微信JSAPI支付](jie-kou-lie-biao/d.md)
-  * 订单查询
+  * [订单查询](jie-kou-lie-biao/ding-dan-cha-xun.md)
   * [交易退款](jie-kou-lie-biao/jiao-yi-tui-kuan.md)
   * [交易撤销](jie-kou-lie-biao/jiao-yi-che-xiao.md)
   * [支付完成之后的通知](jie-kou-lie-biao/zhi-fu-wan-cheng-zhi-hou-de-tong-zhi.md)
