@@ -13,6 +13,6 @@
   * 交易退款
   * 交易撤销
   * 支付完成之后的通知
-  * 接口返回值的安全校验规则
+  * [接口返回值的安全校验规则](jie-kou-lie-biao/jie-kou-fan-hui-zhi-de-an-quan-xiao-yan-gui-ze.md)
 * [名词解释](ming-ci-jie-shi.md)
 
