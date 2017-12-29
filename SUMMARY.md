@@ -7,7 +7,7 @@
 * [接口列表](jie-kou-lie-biao.md)
   * [条码支付](jie-kou-lie-biao/a.md)
   * [扫码支付](jie-kou-lie-biao/b.md)
-  * H5支付
+  * [H5支付](jie-kou-lie-biao/h5zhi-fu.md)
   * [微信JSAPI支付](jie-kou-lie-biao/d.md)
   * [订单查询](jie-kou-lie-biao/ding-dan-cha-xun.md)
   * [交易退款](jie-kou-lie-biao/jiao-yi-tui-kuan.md)
