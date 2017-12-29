@@ -6,8 +6,13 @@
 * [提交地址与测试参数](ti-jiao-di-zhi-yu-ce-shi-can-shu.md)
 * [接口列表](jie-kou-lie-biao.md)
   * [条码支付](jie-kou-lie-biao/a.md)
-  * b
-  * c
-  * d
-  * e
+  * [扫码支付](jie-kou-lie-biao/b.md)
+  * H5支付
+  * [微信JSAPI支付](jie-kou-lie-biao/d.md)
+  * 订单查询
+  * 交易退款
+  * 交易撤销
+  * 支付完成之后的通知
+  * 接口返回值的安全校验规则
+* [名词解释](ming-ci-jie-shi.md)
 
